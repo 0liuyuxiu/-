@@ -4,7 +4,7 @@
 <title>只给静静一个人</title>
 <style type="text/css">
 *{margin: 0;padding: 0;}
-body{overflow:hidden;background: url(images/bg.jpg);background-size: cover;}
+body{overflow:hidden;background: url(.\bg.jpg);background-size: cover;}
 .container{
 	width:100%;
 	height: 100%;
@@ -152,7 +152,7 @@ window.onload=function(){
 		
 		<div class="photo02">
 			<div class="photoview" >
-				<img src="C:\Users\ASUS\Documents\Tencent Files\1175395694\FileRecv\MobileFile\静静5.jpg" width="250" height="220">
+				<img src=".\静静5.jpg" width="250" height="220">
 				<p>那明媚白昼</p>
 				<p></p>
 			</div>
@@ -160,7 +160,7 @@ window.onload=function(){
 		
 		<div class="photo03">
 			<div class="photoview" >
-				<img src="C:\Users\ASUS\Documents\Tencent Files\1175395694\FileRecv\MobileFile\静静8.jpg" width="250" height="220">
+				<img src=".\静静8.jpg" width="250" height="220">
 				<p>我想你在每一分每一秒</p>
 				<p></p>
 			</div>
@@ -168,7 +168,7 @@ window.onload=function(){
 		
 		<div class="photo04">
 			<div class="photoview" >
-				<img src="C:\Users\ASUS\Documents\Tencent Files\1175395694\FileRecv\MobileFile\静静4.jpg" width="250" height="220">
+				<img src=".\静静4.jpg" width="250" height="220">
 				<p>亲爱的</p>
 				<p></p>
 			</div>
