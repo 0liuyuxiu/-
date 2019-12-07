@@ -112,7 +112,7 @@ body{overflow:hidden;background: url(images/bg.jpg);background-size: cover;}
 window.onload=function(){
 	var y=document.getElementById('xiu');
 	y.onclick=function(){
-	var x=window.prompt("接下来的两个问题只有静静知道，通过的话就能知道一件很重要的事，要过关吗？","说是或不是哦");
+	/*var x=window.prompt("接下来的两个问题只有静静知道，通过的话就能知道一件很重要的事，要过关吗？","说是或不是哦");
 	if(x=="是"){
 		var z=window.prompt("宝宝你给我唱的第一首歌是","四个字");
 		  if(z=="云烟成雨"){
@@ -120,9 +120,9 @@ window.onload=function(){
 		  	var d=window.prompt("那你送给我的最后一首歌是什么鸭","不灭的火焰，无论境地多么不利，我都要尝试和你在一起");
 		  	if(d=="try"){
 		  		alert("是啊！我想和你一直走下去，如果能一起到老，烟波里成灰，我也心满意足");
-		  		alert("接着点下去吧！");
+		  		alert("接着点下去吧！");*/
 		  		window.location.href="https://0liuyuxiu.github.io/-12/";
-		  	}
+		  	/*}
 		  	else
 		  		alert("P!NK");
 		  }
@@ -130,7 +130,7 @@ window.onload=function(){
 		  	alert("名字开头是云哦");
 	}
     else
-    	alert("哼！生我气了啦？别这样嘛！宝宝");
+    	alert("哼！生我气了啦？别这样嘛！宝宝");*/
 	return ;
 }
 }
