@@ -127,7 +127,7 @@ window.onload=function(){
 		  		alert("P!NK");
 		  }
 		  else
-		  	window.location.href="https://0liuyuxiu.github.io/-1/";
+		  	alert("名字开头是云哦");
 	}
     else
     	window.location.href="https://0liuyuxiu.github.io/-1/";
