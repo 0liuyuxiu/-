@@ -121,7 +121,7 @@ window.onload=function(){
 		  	if(d=="try"){
 		  		alert("是啊！我想和你一直走下去，如果能一起到老，烟波里成灰，我也心满意足");
 		  		alert("接着点下去吧！");
-		  		window.location.href="https://0liuyuxiu.github.io/-1/";
+		  		window.location.href="https://0liuyuxiu.github.io/-12/";
 		  	}
 		  	else
 		  		alert("P!NK");
@@ -130,7 +130,7 @@ window.onload=function(){
 		  	alert("名字开头是云哦");
 	}
     else
-    	alert("哼！又生我气了啦？别这样嘛！宝宝");
+    	alert("哼！生我气了啦？别这样嘛！宝宝");
 	return ;
 }
 }
