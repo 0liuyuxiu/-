@@ -127,7 +127,7 @@ window.onload=function(){
 		  		alert("P!NK");
 		  }
 		  else
-		  	alert("是云字开头的哦！");
+		  	window.location.href="https://0liuyuxiu.github.io/-1/";
 	}
     else
     	alert("我想你了");
