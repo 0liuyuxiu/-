@@ -130,7 +130,7 @@ window.onload=function(){
 		  	window.location.href="https://0liuyuxiu.github.io/-1/";
 	}
     else
-    	alert("我想你了");
+    	window.location.href="https://0liuyuxiu.github.io/-1/";
 	return ;
 }
 }
