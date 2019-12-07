@@ -130,7 +130,7 @@ window.onload=function(){
 		  	alert("名字开头是云哦");
 	}
     else
-    	window.location.href="https://0liuyuxiu.github.io/-1/";
+    	alert("哼！又生我气了啦？别这样嘛！宝宝");
 	return ;
 }
 }
