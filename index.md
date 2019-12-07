@@ -4,7 +4,7 @@
 <title>只给静静一个人</title>
 <style type="text/css">
 *{margin: 0;padding: 0;}
-body{overflow:hidden;background: url(.\bg.jpg);background-size: cover;}
+body{overflow:hidden;background: url(imagre\bg.jpg);background-size: cover;}
 .container{
 	width:100%;
 	height: 100%;
