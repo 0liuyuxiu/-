@@ -137,7 +137,7 @@ window.onload=function(){
 </script>
 </head>
 <body>	
-<input id="xiu" style="width:100px;font:left; margin-left:800px; height:100px;background:red;" type="button" value="宝贝点这里"/>
+<input id="xiu" style="width:100px;font:left; margin-left:400px; margin-top:500px; height:100px;background:red;" type="button" value="宝贝点这里"/>
 
 <div class="container">
 	<div class="photowall">
