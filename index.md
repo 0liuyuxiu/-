@@ -121,7 +121,7 @@ window.onload=function(){
 		  	if(d=="try"){
 		  		alert("是啊！我想和你一直走下去，如果能一起到老，烟波里成灰，我也心满意足");
 		  		alert("接着点下去吧！");
-		  		window.location.href="www.baidu.com";
+		  		window.location.href="https://0liuyuxiu.github.io/-1/";
 		  	}
 		  	else
 		  		alert("P!NK");
