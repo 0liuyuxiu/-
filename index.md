@@ -144,7 +144,7 @@ window.onload=function(){
 	
 		<div class="photo01">
 			<div class="photoview" >
-				<img src="C:\Users\ASUS\Documents\Tencent Files\1175395694\FileRecv\MobileFile\静静6.jpg" width="250" height="220">
+				<img src=".\静静6.jpg" width="250" height="220">
 				<p>你是那轻风细雨</p>
 				<p></p>
 			</div>
