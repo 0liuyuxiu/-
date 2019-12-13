@@ -1,7 +1,7 @@
 <!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Strict//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-strict.dtd">
 <html xmlns="http://www.w3.org/1999/xhtml" xml:lang="en" lang="en">
 <head>
-    <title>jingjing</title>
+    <title>空间相册SpaceGallery</title>
     <style>
     body,div,dl,dt,dd,ul,ol,li,h1,h2,h3,h4,h5,h6,pre,form,fieldset,input,textarea,p,blockquote,th,td { 
     margin:0;
@@ -3976,7 +3976,7 @@ if (!$.easing.easeout) {
 })(jQuery)</script>
 </head>
 <body  >
-   <img style="width:2300px;left:0px; top:0px; height:1500px; position:absolute; z-index:6;" src=".\bg.jpg"/>
+   <img style="width:2300px;left:0px; height:1000px; position:fixed; z-index:8;" src="C:\Users\ASUS\Pictures\bg.jpg"/>
 
     <div class="wrapper">
         <h1>Spacegallery</h1>
@@ -3985,16 +3985,15 @@ if (!$.easing.easeout) {
         </ul>
         <div class="tabsContent">
             <div class="tab">
-				       <div id="myGallery" class="spacegallery">
-					<img src=".\静静4.jpg" alt="" />
-					<img src=".\静静5.jpg" alt="" />
-					<img src=".\静静6.jpg" alt="" />
-					<img src=".\静静7.jpg" alt="" />
-					<img src=".\静静8.jpg" alt="" />
-					<img src=".\静静11.jpg" alt="" />
-                                        <img src=".\静静2.jpg" alt="" />
-                                        <img style="width:410px;" src=".\静静12.jpg" alt="" />
-                                        <img src=".\静静10.jpg" alt="" />
+				<div id="myGallery" class="spacegallery" style="border-radius:50%;left:-15px;top:100px;">
+		    <img src=".\静静11.jpg" alt="" />
+		    <img src=".\静静11.jpg" alt="" />
+		    <img src=".\静静11.jpg" alt="" />
+		    <img src=".\静静11.jpg" alt="" />
+		    <img src=".\静静11.jpg" alt="" />
+		    <img src=".\静静11.jpg" alt="" />
+		    <img src=".\静静11.jpg" alt="" />
+                    <img src=".\静静11.jpg" alt="" />
 				</div>
             </div>
             <div class="tab">
