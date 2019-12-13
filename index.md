@@ -1,7 +1,7 @@
 <!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Strict//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-strict.dtd">
 <html xmlns="http://www.w3.org/1999/xhtml" xml:lang="en" lang="en">
 <head>
-    <title>空间相册SpaceGallery</title>
+    <title>jingjing</title>
     <style>
     body,div,dl,dt,dd,ul,ol,li,h1,h2,h3,h4,h5,h6,pre,form,fieldset,input,textarea,p,blockquote,th,td { 
     margin:0;
@@ -3993,7 +3993,7 @@ if (!$.easing.easeout) {
 					<img src=".\静静8.jpg" alt="" />
 					<img src=".\静静11.jpg" alt="" />
                                         <img src=".\静静2.jpg" alt="" />
-                                        <img src=".\静静12.jpg" alt="" />
+                                        <img style="width:410px;" src=".\静静12.jpg" alt="" />
                                         <img src=".\静静10.jpg" alt="" />
 				</div>
             </div>
