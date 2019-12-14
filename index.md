@@ -3976,7 +3976,7 @@ if (!$.easing.easeout) {
 })(jQuery)</script>
 </head>
 <body  >
-   <img style="width:2300px;left:0px; height:1500px;top:0px;  position:fixed; z-index:8;" src=".\bg.jpg"/>
+   <img style="width:2300px;left:0px; height:1000px;top:0px;  position:fixed; z-index:8;" src=".\bg.jpg"/>
 	<div class="wrapper">
         <h1>Spacegallery</h1>
         <ul class="navigationTabs">
@@ -3985,14 +3985,14 @@ if (!$.easing.easeout) {
         <div class="tabsContent">
             <div class="tab">
 				<div id="myGallery" class="spacegallery" style="border-radius:50%;left:-15px;top:100px;">
+		    <img src=".\静静2.jpg" alt="" />
 		    <img src=".\静静11.jpg" alt="" />
-		    <img src=".\静静11.jpg" alt="" />
-		    <img src=".\静静11.jpg" alt="" />
-		    <img src=".\静静11.jpg" alt="" />
-		    <img src=".\静静11.jpg" alt="" />
-		    <img src=".\静静11.jpg" alt="" />
-		    <img src=".\静静11.jpg" alt="" />
-                    <img src=".\静静11.jpg" alt="" />
+		    <img src=".\静静4.jpg" alt="" />
+		    <img src=".\静静10.jpg" alt="" />
+		    <img src=".\静静5.jpg" alt="" />
+		    <img src=".\静静6.jpg" alt="" />
+		    <img src=".\静静7.jpg" alt="" />
+                    <img src=".\静静8.jpg" alt="" />
 				</div>
             </div>
             <div class="tab">
