@@ -164,8 +164,8 @@ h1 {
     </style>
     <style>
     #myGallery {
-    width: 100%;
-    height: 900px;
+    width: 80px;
+    height: 90px;
 }
 #myGallery img {
     width:430px;
