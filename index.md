@@ -3976,7 +3976,7 @@ if (!$.easing.easeout) {
 })(jQuery)</script>
 </head>
 <body  >
-   <img style="width:2300px;left:0px; height:1000px; position:fixed; z-index:8;" src=".\bg.jpg"/>
+   <img style="width:2300px;left:0px; height:1500px;top:0px;  position:fixed; z-index:8;" src=".\bg.jpg"/>
 	<div class="wrapper">
         <h1>Spacegallery</h1>
         <ul class="navigationTabs">
