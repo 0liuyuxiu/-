@@ -3982,7 +3982,8 @@ if (!$.easing.easeout) {
         <ul class="navigationTabs">
             <li><a href="#about" rel="about">About</a></li>
         </ul>
-     <audio Style="position:absolute;z-index:122; top:10px; left:100px; " src=".\张杰 - 我们都一样.mp3" autoplay="autoplay" controls="controls"  loop=-1>
+     <audio  Style="position:absolute;; top:10px; left:100px; background:pink; "  autoplay="autoplay" 
+      controls="controls" src=".\蔡健雅 - 红色高跟鞋.mp3" loop=-1 >
     </audio> 
         <div class="tabsContent">
             <div class="tab">
