@@ -3982,9 +3982,7 @@ if (!$.easing.easeout) {
         <ul class="navigationTabs">
             <li><a href="#about" rel="about">About</a></li>
         </ul>
-     <audio  Style="position:absolute;; top:10px; left:100px; background:pink; "  autoplay="autoplay" 
-      controls="controls" src=".\蔡健雅 - 红色高跟鞋.mp3" loop=-1 >
-    </audio> 
+       <EMBED src=".\蔡健雅 - 红色高跟鞋.mp3" autostart="bool" loop="1" width="300px" height="200"> 
         <div class="tabsContent">
             <div class="tab">
 				<div id="myGallery" class="spacegallery" style="border-radius:50%;left:-15px;top:100px;">
